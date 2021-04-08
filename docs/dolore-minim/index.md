@@ -1,4 +1,4 @@
-# Dolore minim
+# Minim
 
 Qui enim eiusmod proident. Aliquip Lorem dolore exercitation commodo eu quis eu qui excepteur.
 
