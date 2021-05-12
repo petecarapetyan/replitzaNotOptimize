@@ -1,6 +1,6 @@
 # couldbe.net
 
-This repo is a personalized/customized version of the [not-optimize fins-rocket-theme](https://github.com/petecarapetyan/fins-rocket-themes/blob/main/not-fixyou/src/docs/) code.
+This repo is a personalized/customized version of the [not-optimize fins-rocket-theme](https://github.com/petecarapetyan/fins-rocket-themes/blob/main/not-optimize/src/docs/) code.
 
 ## For more information on fins-rocket-themes
 
