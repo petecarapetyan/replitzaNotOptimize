@@ -1,12 +1,11 @@
 ---
 layout: layout-sidebar
-title: index
+title: Quis Elit
 eleventyNavigation:
-  key: index
-  title: index
-  parent: quis-elit
+  key: quis-elit
+  title: Quis Elit
+  parent: consequat
   # order: 42
-# FIXME - Values shown above are currently derived from the file path only, except order which is also commented out because it is optional. Correct as desired and delete comment(s).
 ---
 
 # Quis elit

@@ -1,12 +1,11 @@
 ---
 layout: layout-sidebar
-title: index
+title: Laboris Consequat
 eleventyNavigation:
-  key: index
-  title: index
-  parent: laboris-consequat
+  key: laboris-consequat
+  title: Laboris Consequat
+  parent: dolore-minim
   # order: 42
-# FIXME - Values shown above are currently derived from the file path only, except order which is also commented out because it is optional. Correct as desired and delete comment(s).
 ---
 
 # Laboris consequat

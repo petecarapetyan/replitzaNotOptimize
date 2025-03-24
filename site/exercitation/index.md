@@ -1,12 +1,11 @@
 ---
 layout: layout-sidebar
-title: index
+title: Exercitation
 eleventyNavigation:
-  key: index
-  title: index
-  parent: exercitation
+  key: exercitation
+  title: Exercitation
+
   # order: 42
-# FIXME - Values shown above are currently derived from the file path only, except order which is also commented out because it is optional. Correct as desired and delete comment(s).
 ---
 
 # Exercitation
