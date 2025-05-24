@@ -93,10 +93,7 @@ body[layout='layout-home'] .content-grid-area {
 .ga-foot-r {
   grid-area: foot-r;
 }
-body[layout='layout-sidebar'],
-body[layout='layout-index'],
-body[layout='layout-blog-details'],
-body[layout='layout-blog-overview'] {
+body[layout='layout-sidebar'] {
   grid-auto-rows: 0; 
   grid-auto-columns: 0;
   overflow-x: hidden;
@@ -128,10 +125,7 @@ body[layout='layout-blog-overview'] {
     grid-auto-columns: 0;
     overflow-x: hidden;
   }
-  body[layout='layout-sidebar'],
-  body[layout='layout-index'],
-  body[layout='layout-blog-details'],
-  body[layout='layout-blog-overview'] {
+  body[layout='layout-sidebar'] {
     display: grid;
     grid-template-columns:auto;
     grid-template-rows: auto auto;
